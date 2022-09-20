@@ -1,0 +1,16 @@
+C:\Users\timof\source\repos\Humans\Humans\bin\Debug\net5.0\Humans.exe
+C:\Users\timof\source\repos\Humans\Humans\bin\Debug\net5.0\Humans.deps.json
+C:\Users\timof\source\repos\Humans\Humans\bin\Debug\net5.0\Humans.runtimeconfig.json
+C:\Users\timof\source\repos\Humans\Humans\bin\Debug\net5.0\Humans.runtimeconfig.dev.json
+C:\Users\timof\source\repos\Humans\Humans\bin\Debug\net5.0\Humans.dll
+C:\Users\timof\source\repos\Humans\Humans\bin\Debug\net5.0\ref\Humans.dll
+C:\Users\timof\source\repos\Humans\Humans\bin\Debug\net5.0\Humans.pdb
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.csproj.AssemblyReference.cache
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.AssemblyInfoInputs.cache
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.AssemblyInfo.cs
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.csproj.CoreCompileInputs.cache
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.dll
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\ref\Humans.dll
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.pdb
+C:\Users\timof\source\repos\Humans\Humans\obj\Debug\net5.0\Humans.genruntimeconfig.cache
